@@ -1,2 +1,4 @@
 # jet-smart-filter
-hey my name is ibrahim,form Pakistan i am real lover of crocoblock and elementor mostly project in Elementor,
+hey my name is ibrahim,form Pakistan i am real lover of crocoblock and elementor mostly project i have did in Elementor,
+but while working with clients and on demond client get more experience with it,there in jet smart filter while filtering there are some skins and classic content just we availabe that we can filter more over also but what i am doing here there is one a client. he want to make filter whole post (mean Full contents)  but when i start filtering. its were working well but there some animation and slider and count kind of  widget after filtering then its functinaltiy not working well also submit the ticket,crocoblock one of the  team  memeber suggest me to make feature request so i think this is better for us our clients also to bring these feature that we can  filter full contents post, and kind post with animation.have pleasure day .hope will get this in future thank you.
+stay safe.
